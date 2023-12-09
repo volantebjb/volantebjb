@@ -1,3 +1,5 @@
+!Banner(https://github.com/volantebjb/volantebjb/blob/main/public/banner.jpg?raw=true)
+
 # About Me
 
 Recently graduated in Computer Engineering from the Technological Institute of the Philippines, I demonstrated proficiency in networking and cybersecurity, and contributed to practical AI and IoT projects. This includes developing a small vessel emergency alert system and a chatbot app with sentiment analysis.
