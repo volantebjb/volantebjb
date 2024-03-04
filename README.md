@@ -1,4 +1,4 @@
-![image](https://github.com/volantebjb/volantebjb/assets/58124878/e4cd642e-54c4-4d4b-bbbc-07379bee4cdf)![Banner](https://github.com/volantebjb/volantebjb/blob/main/public/images/banner.jpg?raw=true)
+![Banner](https://github.com/volantebjb/volantebjb/blob/main/public/images/banner.jpg?raw=true)
 
 # About Me
 
